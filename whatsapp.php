@@ -111,7 +111,7 @@
  <!-- WhatsApp Chat Widget -->
  <div class="whatsapp-widget">
 	<a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
-		<img src="images/whatsapp.png" alt="WhatsApp Logo" />
+		<img src="whatsapp.png" alt="WhatsApp Logo" />
 		<span>Chat with us on WhatsApp</span>
 	</a>
 </div>
@@ -126,7 +126,7 @@
 		<div class="whatsapp-popup-body">
 			<p>Click the button below to chat with us on WhatsApp:</p>
 			<a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
-				<img src="images/whatsapp.png" alt="WhatsApp Logo" />
+				<img src="whatsapp.png" alt="WhatsApp Logo" />
 				<span>Chat with us</span>
 			</a>
 		</div>
